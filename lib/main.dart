@@ -1,3 +1,5 @@
+// Records are just like functions but it can return multiple values.
+
 import 'package:flutter/material.dart';
 
 import 'data.dart';
